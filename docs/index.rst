@@ -12,7 +12,14 @@ Welcome to My Project's Documentation
 Getting Started
 ---------------
 
-This section provides an overview of how to get started with My Project.
+A tutorial for implementing authentication in Django using
+[passport](https://github.com/jaredhanson/passport) modules.
+
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Install](#install-the-example-locally)
+- [Tutorial - Facebook](#Try-it-out-with-FaceBook)
+- [Tutorial - Google](#Try-it-out-with-Google)
 
 User Guide
 ----------
