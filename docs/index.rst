@@ -1,4 +1,6 @@
 Welcome to My Project's Documentation
+
+Lumache has its documentation hosted on Read the Docs.
 =======================================
 
 .. toctree::
